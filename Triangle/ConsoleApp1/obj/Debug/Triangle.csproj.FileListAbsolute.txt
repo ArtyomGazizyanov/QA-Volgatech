@@ -1,0 +1,7 @@
+D:\WorkSpace\QA\QA-Volgatech\Triangle\ConsoleApp1\bin\Debug\Triangle_C.exe.config
+D:\WorkSpace\QA\QA-Volgatech\Triangle\ConsoleApp1\bin\Debug\Triangle_C.exe
+D:\WorkSpace\QA\QA-Volgatech\Triangle\ConsoleApp1\bin\Debug\Triangle_C.pdb
+D:\WorkSpace\QA\QA-Volgatech\Triangle\ConsoleApp1\obj\Debug\Triangle.csprojResolveAssemblyReference.cache
+D:\WorkSpace\QA\QA-Volgatech\Triangle\ConsoleApp1\obj\Debug\Triangle.csproj.CoreCompileInputs.cache
+D:\WorkSpace\QA\QA-Volgatech\Triangle\ConsoleApp1\obj\Debug\Triangle_C.exe
+D:\WorkSpace\QA\QA-Volgatech\Triangle\ConsoleApp1\obj\Debug\Triangle_C.pdb
